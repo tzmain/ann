@@ -1,0 +1,10 @@
+[package]
+name = "simple-cnn"
+version = "0.1.0"
+authors = ["tt <tianzhu226@sina.com>"]
+
+[dependencies]
+
+
+[dependencies.rusty-machine]
+version = "*"
